@@ -6,3 +6,5 @@ Vaishant's strength lies in coding and programming. He is proficient in over fiv
 
 Together, Mubeen and Vaishant complement each other's skills and work well as a team. They have gained valuable experience from the small competitions they have participated in so far, and they hope that this is just the beginning of bigger things to come.​
 # About-The-Car-
+ # The-Mecanism-Used-For-
+  For the stearing system we have used a severo based stearing system we chose this because this was better compared to the other type of stearing system 
